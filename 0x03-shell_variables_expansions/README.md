@@ -1,12 +1,4 @@
-# Shell, init files, variables and expansions
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**.
-
-## Technologies
-* Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
-
-## Files
 All of the following files are scripts:
 
 | Filename | Description |
@@ -25,7 +17,7 @@ All of the following files are scripts:
 | `11-binary_to_decimal` | Converts a number from base 2 to base 10 |
 | `12-combinations` | Prints all possible combinations of two letters, except `oo` |
 | `13-print_float` | Prints a number with two decimal places. The number is stored in the environment variable `NUM` |
-| `14-decimal_to_hexadecimal` | Converts a number from base 10 to base 16 |
-| `100-rot13` | Encodes and decodes text using the rot13 encryption |
-| `101-odd` | Prints every other line from the input, starting with the first line |
-| `102-water_and_str` | Adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result |
+| `100-decimal_to_hexadecimal` | Converts a number from base 10 to base 16 |
+| `101-rot13` | Encodes and decodes text using the rot13 encryption |
+| `102-odd` | Prints every other line from the input, starting with the first line |
+| `103-water_and_str` | Adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result |
